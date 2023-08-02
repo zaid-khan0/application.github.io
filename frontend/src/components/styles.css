@@ -1,0 +1,43 @@
+/* background color */
+body {
+    background-color: #b9e1ee;
+  }
+  
+  /* header */
+  header {
+    background-color: #ffffff;
+    color: #9fd0e1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* main content */
+  .main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  /* input and button */
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* weather data display */
+  .weather-data {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
